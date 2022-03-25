@@ -1,0 +1,24 @@
+{
+  "name": "fast-factorial",
+  "version": "0.0.1",
+  "description": "Exactly calculates small factorials, but also provides a fast way to estimate large factorials using Stirling’s approximation, which will be close enough for most applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoponyCallsMeChicken/fast-factorial.git"
+  },
+  "keywords": [
+    "math",
+    "factorial",
+    "Stirling"
+  ],
+  "author": "Simon Lewis Lanz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoponyCallsMeChicken/fast-factorial/issues"
+  },
+  "homepage": "https://github.com/NoponyCallsMeChicken/fast-factorial#readme"
+}
